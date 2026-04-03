@@ -1,0 +1,5 @@
+{
+  "name": "CodeTutor Live",
+  "description": "An AI-powered live voice assistant that tutors you on code line-by-line using Gemini 3.1 Flash Live.",
+  "requestFramePermissions": ["microphone"]
+}
